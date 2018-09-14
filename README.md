@@ -5,8 +5,7 @@ The default font size is set to 5.
 
 Using the library is really simple, here is initialization code for the OLED:
 
-'''C
-
+'''javascript
 int main(void) {
 	  
     OLED_Init();  //initialize the OLED
@@ -21,6 +20,4 @@ int main(void) {
     
 	return 0; // never reached
 }
-
-
 '''
