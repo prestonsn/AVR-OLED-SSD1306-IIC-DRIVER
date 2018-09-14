@@ -2,6 +2,7 @@
 
 This library contains code to drive the SSD1306 OLED displays using AVR ATmega series of microcontrollers. 
 The default font size is set to 5.
+This library makes use of the IIC library available on this github page.
 
 Using the library is really simple, here is initialization code for the OLED:
 
