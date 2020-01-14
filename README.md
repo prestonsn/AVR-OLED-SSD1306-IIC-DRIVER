@@ -19,7 +19,7 @@ int main(void) {
 
     }
     
-	return 0; // never reached
+    return 0; // never reached
 }
 ```
 
