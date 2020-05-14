@@ -26,3 +26,5 @@ int main(void) {
 
 Check out this great article from lostdiode.com featuring a project utilizing the code from this repo!
 https://lostdiode.com/2018/12/14/interfacing-ssd1306-based-128x64-oled-with-avr/
+
+The I2C code used is available here: https://github.com/Preston-Sundar/AtmegaXX-I2C-Library
